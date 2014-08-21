@@ -53,17 +53,19 @@ body{
 }
 
 #img_jupiter{
-	padding: 0;
+    margin: .5em;
+	padding: .5em;
 	float: right;
+    width: auto;
 }
 
 #parrafo1{
 	font: 1.3em verdana;
 	color: red;
-	margin: 30px;
+	margin: 0;
 	border: dashed;
-	padding: 20px;
-	width: auto;
+	padding: .2em;
+	width: inherit;
 }
 
 .destacado{
@@ -105,3 +107,10 @@ a{
 	margin: 0 1% 0 0;
 	height: 500px;
 }
+ {
+    padding:   
+}
+
+
+
+

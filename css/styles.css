@@ -1,0 +1,107 @@
+body{
+	background-color: #E8E8E8;
+	margin: 0;
+	padding: 0;
+	font-family: Verdana,Arial,sans-serif;
+}
+
+#pagina{
+	margin: 0;
+	padding: 0;
+}
+
+#tituloDePagina{
+	color: #3131cd;
+	font: 22pt helvetica, sans-serif;
+	text-align: center;
+	line-height: .7;
+}
+
+#top{
+	background: fixed;
+}
+
+#top_menu{
+	/*background-color: ;*/
+	list-style: none;
+	padding: 1em;
+	margin: 0;
+	overflow: hidden;
+	border-radius: 3px;
+	background: #382e24;
+}
+#top_menu li a{
+	float: left;
+	width: 5%;
+	text-align: center;
+	padding: 0 2em;
+	border-left: 1px solid #FFF;
+  	border-right: 1px solid #FFF;
+	color: #3131cd;
+}
+
+#contenedor{
+	color: #585858;
+	background-color: white;
+	width: 60%;
+	height: auto;
+	border-radius: 12px;
+	box-shadow: 0px 0px 14px #000000;
+	padding: 10px;
+	/*float: center;*/
+	margin: 0 17% 0 17%;
+}
+
+#img_jupiter{
+	padding: 0;
+	float: right;
+}
+
+#parrafo1{
+	font: 1.3em verdana;
+	color: red;
+	margin: 30px;
+	border: dashed;
+	padding: 20px;
+	width: auto;
+}
+
+.destacado{
+	font: 18pt sans-serif;
+}
+
+#barraIzquierda{
+	background-color: #ea3b09;
+	padding: 1em 3em;
+	margin: 0 1em 0 1em;
+	float: left;
+	border-radius: 4px;
+}
+
+#barraIzquierda ul{
+	padding: 0;
+}
+
+#barraIzquierda ul li{
+	list-style: none;
+	padding: .5em 1em;
+	border-radius: 3px;
+}
+
+#barraIzquierda ul li:hover{
+	background-color: #dc3b19;
+}
+
+a{
+	text-decoration: none;
+}
+
+#publicidad{
+	background-color: #00a33d;
+	border: black;
+	border-radius: 4px;
+	float: right;
+	padding: 0 3%;
+	margin: 0 1% 0 0;
+	height: 500px;
+}
